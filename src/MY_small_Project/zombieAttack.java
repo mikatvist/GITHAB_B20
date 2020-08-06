@@ -4,6 +4,8 @@ public class zombieAttack {
     public static void main(String[] args) {
 
 
+        //gogic
+
         Scanner input = new Scanner(System.in);
         int[] inhabitants = new int[8];
         for (int i = 0; i < inhabitants.length; i++) {
